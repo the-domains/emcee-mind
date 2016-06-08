@@ -2,6 +2,7 @@ name: Emcee Mind
 favicon: null
 layout_spectrum: 0.7448859217111021
 typography_spectrum: 0.11397054977715015
+title: EmceeMind.org
 cta:
   domain: null
   bucket: null
