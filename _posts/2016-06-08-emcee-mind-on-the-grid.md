@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Hello world! Rock, rock on! More coming soon....'
-datePublished: '2016-06-08T04:03:49.286Z'
-dateModified: '2016-06-08T04:02:56.721Z'
+datePublished: '2016-06-18T19:53:29.482Z'
+dateModified: '2016-06-18T19:37:09.045Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: true
 sourcePath: _posts/2016-06-08-emcee-mind-on-the-grid.md
+starred: false
 url: emcee-mind-on-the-grid/index.html
 _type: Article
 
